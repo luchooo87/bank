@@ -34,6 +34,8 @@ public class ClientWService implements IClientWService {
         client.setPhone(clientWDto.getPhone());
         client.setAddress(clientWDto.getAddress());
         client.setPassword(clientWDto.getPassword());
+        client.setAge(clientWDto.getAge());
+        client.setIdentification(clientWDto.getIdentification());
         client.setStatus(true);
         this._clientRepository.save(client);
         return client;
@@ -50,6 +52,8 @@ public class ClientWService implements IClientWService {
         client.setPhone(clientWDto.getPhone());
         client.setAddress(clientWDto.getAddress());
         client.setPassword(clientWDto.getPassword());
+        client.setAge(clientWDto.getAge());
+        client.setIdentification(clientWDto.getIdentification());
         this._clientRepository.save(client);
         return client;
     }

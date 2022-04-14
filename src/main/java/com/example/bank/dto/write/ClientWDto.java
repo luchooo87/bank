@@ -16,5 +16,7 @@ public class ClientWDto {
     private String fullName;
     private String password;
     private String phone;
+    private Integer age;
+    private String identification;
 
 }
