@@ -12,7 +12,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"address\": \"Amazonas y NNUU\",\n  \"fullName\": \"Marianela Montalvo\",\n  \"password\": \"5678\",\n  \"phone\": \"097548965\"\n}",
+					"raw": "{\n  \"address\": \"Amazonas y NNUU\",\n  \"fullName\": \"Marianela Montalvo\",\n  \"password\": \"5678\",\n  \"phone\": \"097548965\",\n  \"age\": 25,\n  \"identification\": \"1701014745\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -41,7 +41,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"address\": \"string\",\n  \"fullName\": \"string\",\n  \"id\": 1,\n  \"password\": \"string\",\n  \"phone\": \"string\"\n}",
+					"raw": "{\n  \"address\": \"string\",\n  \"fullName\": \"string\",\n  \"id\": 1,\n  \"password\": \"string\",\n  \"phone\": \"string\",\n  \"age\": 25,\n  \"identification\": \"1701014745\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
